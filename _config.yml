@@ -79,3 +79,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+
+
+# for search engine
+
+plugins:
+  - jekyll-seo-tag
